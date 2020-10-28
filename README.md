@@ -13,6 +13,7 @@
 **UI Credit**
 
 - Design by: Rendi Ramadana [link](https://www.uplabs.com/posts/coronavirus-information-concept)
+- api data fetch and app intialize by: Nurullah Sadekin
 
 ### Covid-19 App Final UI
 
